@@ -1,7 +1,7 @@
 {
-  "name": "conduit-node",
+  "name": "iot-smartparking-server",
   "version": "1.0.0",
-  "description": "conduit on node",
+  "description": "iot-smartparking-server",
   "main": "app.js",
   "scripts": {
     "start": "node ./app.js --exec babel-node --presets es2015,stage-2",
