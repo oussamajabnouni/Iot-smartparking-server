@@ -1,4 +1,3 @@
 # Internet of things smart parking system web server
 
-Some screen shots
-
+Created using Nodejs - Express - Mongoose - Socketio
