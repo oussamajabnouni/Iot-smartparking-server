@@ -7,7 +7,7 @@ let transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
         user: 'osama.jbnoni@gmail.com',
-        pass: '07687591'
+        pass: '********'
     }
 });
 // setup email data with unicode symbols
